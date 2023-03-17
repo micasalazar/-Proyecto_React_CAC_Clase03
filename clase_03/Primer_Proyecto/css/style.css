@@ -3,12 +3,15 @@
     padding: 0;
 }
 body{
-    background: url("/clase_03/Primer_Proyecto/img/flower-2342706_640.webp");   
+    background: url("/clase_03/Primer_Proyecto/img/corina-ardeleanu-sWlxCweDzzs-unsplash.jpg");
+    /* background-repeat: no-repeat;   
+    background-attachment: fixed; */
+    background-size:cover;
 }
 
 
 div{
-    background-color: #E358BF;
+    background-color: #BE2525;
     opacity: 60%;
     width: 300px;
     height: 300px;
@@ -17,8 +20,9 @@ div{
     font-size:large ;
     font-weight:bold;
     font-family:'Courier New', Courier, monospace;
+    color: bisque;
     margin: 0 auto;
-    margin-top: 15%;
+    margin-top: 13%;
     /* display: flex;
     justify-content: center;
      */
@@ -26,3 +30,4 @@ div{
     place-content: center;
     
 }
+

@@ -3,7 +3,7 @@
     padding: 0;
 }
 body{
-    background: url("/clase_03/Primer_Proyecto/img/corina-ardeleanu-sWlxCweDzzs-unsplash.jpg");
+    background: url(/clase_03/Primer_Proyecto/img/corina-ardeleanu-sWlxCweDzzs-unsplash.jpg);
     /* background-repeat: no-repeat;   
     background-attachment: fixed; */
     background-size:cover;
